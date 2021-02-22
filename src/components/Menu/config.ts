@@ -27,9 +27,9 @@ const config: MenuEntry[] = [
     href: 'https://koaladefi.finance/farms'
   },
   {
-    label: 'Nests',
+    label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://koaladefi.finance/nests'
+    href: 'https://koaladefi.finance/pools'
   },
   // {
   //   label: 'Lottery',
