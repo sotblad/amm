@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egge",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Koala Lyptus token",
+      "symbol": "LYPTUS",
+      "address": "0xba26397cdff25f0d26e815d218ef3c77609ae7f1",
       "chainId": 56,
       "decimals": 18
     },
